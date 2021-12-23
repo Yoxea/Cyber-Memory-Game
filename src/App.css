@@ -1,0 +1,14 @@
+.App {
+  max-width: 860px;
+  margin: 40px auto;
+}
+button:hover {
+  background: #282425;
+  color: #fff;
+}
+.card-panel {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto&display=swap');
+
+body {
+  margin: 0;
+  font-size: 1.5em;
+  text-align: center;
+  background: #0f0f1a;
+  color: #fff;
+  font-family: Lato, sans-serif;
+}
+button {
+  background: none;
+  border: 2px solid #fff;
+  font-weight: bold;
+  padding: 6px 12px;
+  border-radius: 25px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 0.9em;
+  font-family: Lato, sans-serif;
+}
